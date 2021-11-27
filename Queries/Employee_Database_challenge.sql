@@ -26,10 +26,13 @@ ORDER BY rt.emp_no ASC, rt.to_date DESC;
 SELECT * FROM unique_titles; 
 
 -- List of employees by recent title about to retire
-SELECT COUNT
-
--- INTO retiring_titles
+SELECT COUNT (ut.emp_no), ut.title
+INTO retiring_titles
 FROM unique_titles as ut
+GROUP BY ut.title
+ORDER BY COUNT(ut.title) DESC;
+
+SELECT * FROM retiring_titles  
 
 
 -- Deliverable 2: Employees Eligible for Mentorship Program
