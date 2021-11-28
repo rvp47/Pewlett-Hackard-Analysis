@@ -7,22 +7,25 @@ Pewlett Hackard's management wants to gain insight into the potential impact of 
 
 #### Deliverable 1: The Number of Retiring Employees by Title
 
-A total of 90,398 employees are of retirement age. A breakdown by title is provided below as well as the code used to generate the list.
-
-![number of retiring titles](https://user-images.githubusercontent.com/90656004/143723470-1aab3033-3c70-442e-bd7d-b9fb102e49bf.PNG)
+- A total of 90,398 employees are of retirement age, which is over 30% of the company's workforce. The code used to generate this number is shown below.
 
 ![Deliverable 1 code](https://user-images.githubusercontent.com/90656004/143723468-714801ea-ad22-4568-86da-7c532a2e7fe5.PNG)
 
+- A breakdown by title is provided below. The titles Senior Engineer and Senior Staff make up a significant portion of the workforce at the age of retirement. These are important roles, so replacing them is critical.
+
+![number of retiring titles](https://user-images.githubusercontent.com/90656004/143723470-1aab3033-3c70-442e-bd7d-b9fb102e49bf.PNG)
+
 #### Deliverable 2: The Employees Eligible for the Mentorship Program 
 
-Of the current employees, a total of 1,549 workers are eligible for the mentorship program. The code is provided below. 
+- Of the current employees, a total of 1,549 workers are eligible for the mentorship program. The code is provided below. 
 
 ![Deliverable 2 code](https://user-images.githubusercontent.com/90656004/143723613-1d994b22-2241-4289-871f-3f769abf4a72.PNG)
 
-############### Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+- A large portion of the eligible employees have senior titles, as seen in this snapshot of the mentorship table.
+
+![mentorship table snapshot](https://user-images.githubusercontent.com/90656004/143725071-d927cc3c-c0b4-4f8f-bea1-4244699fd266.PNG)
 
 ## Summary
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   - Currently, the company has 300,024 employees, so if all 90,398 retirement-ready workers choose to leave, over 30% of the total workforce would need to be replaced if a ratio of 1 new employee to replace 1 retired employee were necessary. 
