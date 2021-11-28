@@ -1,7 +1,7 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard-Analysis
 
 ## Overview
-Pewlett-Hackard
+Pewlett Hackard's management wants to gain insight into the potential impact of the "silver tsunami" will have on the company as employees approach retirement age. This analysis invoves determining the number of retiring employees by title and the number of employees who are eligible to participate in the company's mentorship program. . It is important to note that employees are considered to be of retirement age if they were born between January, 1 1952 and December 31, 1955. 
 
 ## Results
 
@@ -30,4 +30,4 @@ Provide high-level responses to the following questions, then provide two additi
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   - A total of 1,549 workers are eligible for the mentorship program. With only a fraction of the workforce able to participate in the program, there may be a need for restructing the company if it is not possible to recooperate from the "silver tsunami". The requirements of the mentorship program may have to allow for younger workers that are in higher-level positions to be able to participate. Promotions could also be used as a way to replace the retired senior-level workers. 
 
-- 2 additional queries or tables to provide more insight
+- Additional analysis to gain more insight could include breaking down the Pewlett Hackard workforce by age or by length of time at the company and title to see if there is a correlation between these two factors. These queries would indicate whether age or tenure have a relationship with title level. Another analysis could involve looking into the employee to manager ratio, especially as the "silver tsunami" results in sigificantly fewer employees with higher titles. A need may become apparent if managers are outnumbered by their employees and a disconnect is created.
